@@ -1,0 +1,12 @@
+.review-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    height: 180px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+}
+.rating-stars {
+    color: #ffcc00;
+}
